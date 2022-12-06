@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Ensar Muriqi
-#### I am a student of software engineer.
+#### I am a student of software engineering.
 💻 I'm currently learning Javascript.
 
 🚀 I'm focused to my career as a full-stack developer.
