@@ -10,7 +10,7 @@
 
 🏠 Looking for remote job.
 
-Skills: PYTHON / REACT / JS / HTML / CSS / NODE JS /
+Skills: JS / REACT / HTML / CSS / PYTHON / NODE JS /
 
 
 
